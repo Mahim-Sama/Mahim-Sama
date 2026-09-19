@@ -271,17 +271,6 @@ My broader research goal is to investigate how **perception, learned world repre
 
 📧 **Email:** [mahim1066@gmail.com](mailto:mahim1066@gmail.com)
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahim-Sama&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahim-Sama&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
