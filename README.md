@@ -6,7 +6,7 @@ I am a **Machine Learning Engineer and AI researcher** based in Dhaka, Banglades
 
 My research interests are centered around moving AI systems beyond conventional pattern recognition toward **context-aware perception, grounded reasoning, adaptive decision-making, and autonomous task execution**.
 
-Currently, I work as a **Junior Software Engineer (ML Team) at Silicon Orchard LTD**, where I work on machine learning systems, RAG pipelines, computer vision, multimodal models, clustering, knowledge-enhanced AI systems, and intelligent visual reasoning pipelines.
+Currently, I work as a **Software Engineer (ML Team) at Silicon Orchard LTD**, where I work on machine learning systems, RAG pipelines, computer vision, multimodal models, clustering, knowledge-enhanced AI systems, and intelligent visual reasoning pipelines.
 
 ---
 
